@@ -374,7 +374,7 @@ get %r{^(?!/index$)} do
 end
 ```
 
-## Static Files
+## Static files
 
 Static files are served from the `./public` directory. You can specify
 a different location by setting the `:public_folder` option:
